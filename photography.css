@@ -1,0 +1,634 @@
+.photography-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1728px;
+  height: 5466px;
+}
+.download-1-14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1731px;
+  height: 3078px;
+  object-fit: cover;
+}
+.photgraphy,
+.photography3,
+.photography4 {
+  margin: 0;
+  position: absolute;
+  font-weight: 800;
+  font-family: inherit;
+}
+.photgraphy {
+  top: 264px;
+  left: 127px;
+  font-size: inherit;
+  display: inline-block;
+  width: 410px;
+}
+.photography3,
+.photography4 {
+  text-align: center;
+  display: none;
+}
+.photography3 {
+  top: 258px;
+  left: calc(50% - 221px);
+  font-size: var(--font-size-50xl);
+  width: 443px;
+}
+.photography4 {
+  top: 278px;
+  left: calc(50% - 136px);
+  font-size: 42.41px;
+  width: 272px;
+}
+.download-1-15 {
+  position: absolute;
+  top: 3051px;
+  left: 0;
+  width: 1731px;
+  height: 2565px;
+  object-fit: cover;
+}
+.photography-item {
+  position: absolute;
+  top: 568px;
+  left: 27.37px;
+  border-radius: 35.15px;
+  background-color: var(--color-white);
+  width: 1673.27px;
+  height: 4796px;
+  display: none;
+}
+.material-symbolslocation-on-r-icon17 {
+  position: absolute;
+  top: 5512.78px;
+  left: 240px;
+  width: 16.67px;
+  height: 19.44px;
+  overflow: hidden;
+}
+.group-68-1 {
+  position: absolute;
+  top: 765px;
+  left: calc(50% - 527px);
+  width: 1054.92px;
+  height: 3062.57px;
+  object-fit: cover;
+}
+.group-child12,
+.resources-15 {
+  position: absolute;
+  top: calc(50% - 146px);
+  left: 0;
+  width: 1728px;
+  height: 292px;
+}
+.group-child12 {
+  background-color: var(--color-lightgray);
+}
+.resources-15 {
+  object-fit: cover;
+}
+.contact17,
+.let-us-connect17 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.let-us-connect17 {
+  margin: 0;
+  left: 1px;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  width: 315px;
+}
+.contact17 {
+  left: 0;
+  font-size: 19.29px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  width: 98.23px;
+}
+.email-address12 {
+  top: 31.15px;
+  left: 0;
+  color: var(--color-darkslategray-100);
+  width: 122.41px;
+}
+.a17,
+.email-address12,
+.neeladri05dhargmailcom17,
+.whatsapp-number12 {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+  height: 16.24px;
+}
+.neeladri05dhargmailcom17 {
+  text-decoration: none;
+  top: 31.15px;
+  left: 148.54px;
+  font-style: italic;
+  color: inherit;
+  width: 262.31px;
+}
+.a17,
+.whatsapp-number12 {
+  top: 63.62px;
+}
+.a17 {
+  text-decoration: none;
+  left: 148.54px;
+  font-style: italic;
+  color: inherit;
+  width: 262.31px;
+}
+.whatsapp-number12 {
+  left: 0;
+  color: var(--color-darkslategray-100);
+  width: 148.64px;
+}
+.contact-parent4 {
+  position: absolute;
+  top: 82px;
+  left: 398px;
+  width: 410.86px;
+  height: 79.86px;
+  font-size: 19.04px;
+}
+.visit-me-on17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 156.34px;
+}
+.behance17,
+.instagram17,
+.linkendin17 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 122px;
+  font-weight: 300;
+  color: inherit;
+  display: inline-block;
+  width: 100.18px;
+  height: 12.9px;
+}
+.behance17,
+.instagram17 {
+  left: 205px;
+}
+.behance17 {
+  left: 289px;
+}
+.group-wrapper5,
+.visit-me-on-parent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 389.18px;
+  height: 22px;
+}
+.group-wrapper5 {
+  top: 144px;
+  font-size: 18.33px;
+  color: var(--color-darkslategray-100);
+}
+.kolkata-west-bengal17 {
+  position: absolute;
+  top: 0;
+  left: 16.73px;
+  font-weight: 300;
+  display: inline-block;
+  width: 215.27px;
+}
+.material-symbolslocation-on-r-icon18 {
+  position: absolute;
+  top: 2.23px;
+  left: 0;
+  width: 13.38px;
+  height: 15.62px;
+  overflow: hidden;
+}
+.kolkata-west-bengal-india-parent9 {
+  position: absolute;
+  top: 76px;
+  left: 1px;
+  width: 232px;
+  height: 20px;
+  font-size: var(--font-size-mid);
+}
+.let-us-connect-parent15 {
+  position: absolute;
+  top: 63px;
+  left: 58px;
+  width: 808.86px;
+  height: 166px;
+  display: none;
+}
+.let-us-connect18 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 46.88px;
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  display: inline-block;
+  width: 385.46px;
+}
+.kolkata-west-bengal18 {
+  position: absolute;
+  top: 125.83px;
+  left: 20.8px;
+  font-size: 21.14px;
+  font-weight: 300;
+  display: inline-block;
+  width: 267.68px;
+}
+.visit-me-on18 {
+  top: 56px;
+  left: 397px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  width: 205.71px;
+}
+.contact18,
+.linkendin18,
+.visit-me-on18 {
+  position: absolute;
+  display: inline-block;
+}
+.contact18 {
+  top: 56px;
+  left: 593px;
+  font-size: 24.12px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  width: 122.83px;
+}
+.linkendin18 {
+  text-decoration: none;
+  top: 93.95px;
+  left: 402.99px;
+  font-weight: 300;
+  color: var(--color-darkslategray-100);
+  width: 131.82px;
+  height: 16.98px;
+}
+.email-address13,
+.neeladri05dhargmailcom18 {
+  position: absolute;
+  top: 94.95px;
+  font-size: var(--font-size-4xl-8);
+  display: inline-block;
+  font-weight: 300;
+  height: 20.31px;
+}
+.email-address13 {
+  left: 593px;
+  color: var(--color-darkslategray-100);
+  width: 153.07px;
+}
+.neeladri05dhargmailcom18 {
+  text-decoration: none;
+  left: 778.74px;
+  font-style: italic;
+  color: inherit;
+  width: 328.01px;
+}
+.a18,
+.instagram18 {
+  text-decoration: none;
+}
+.a18 {
+  position: absolute;
+  top: 135.56px;
+  left: 778.74px;
+  font-size: var(--font-size-4xl-8);
+  display: inline-block;
+  font-style: italic;
+  font-weight: 300;
+  color: inherit;
+  width: 328.01px;
+  height: 20.31px;
+}
+.instagram18 {
+  top: 126.9px;
+  left: 402.99px;
+  width: 131.82px;
+  height: 16.98px;
+}
+.behance18,
+.instagram18,
+.whatsapp-number13 {
+  position: absolute;
+  font-weight: 300;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+}
+.whatsapp-number13 {
+  top: 135.56px;
+  left: 593px;
+  font-size: var(--font-size-4xl-8);
+  width: 185.87px;
+  height: 20.31px;
+}
+.behance18 {
+  text-decoration: none;
+  top: 159.86px;
+  left: 402.99px;
+  width: 131.82px;
+  height: 16.98px;
+}
+.material-symbolslocation-on-r-icon19 {
+  position: absolute;
+  top: 128.6px;
+  left: 0;
+  width: 16.64px;
+  height: 19.42px;
+  overflow: hidden;
+}
+.let-us-connect-parent16 {
+  position: absolute;
+  top: 58px;
+  left: 59px;
+  width: 1106.75px;
+  height: 176.83px;
+  font-size: 24.11px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: calc(50% + 2149.5px);
+  left: 0;
+  width: 1728px;
+  height: 292px;
+  font-size: 38.31px;
+  color: var(--color-gray-300);
+  font-family: var(--font-futura-lt-bt);
+}
+.let-us-connect19,
+.visit-me-on19 {
+  position: absolute;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.let-us-connect19 {
+  margin: 0;
+  top: calc(50% - 106.07px);
+  left: calc(50% - 133.7px);
+  font-size: 32.96px;
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  width: 248.48px;
+  height: 39.78px;
+}
+.visit-me-on19 {
+  top: calc(50% + 5.93px);
+  left: calc(50% - 149.7px);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  width: 144.62px;
+  height: 21.06px;
+}
+.behance19,
+.linkendin19 {
+  text-decoration: none;
+  left: calc(50% - 144.7px);
+  font-weight: 300;
+  color: inherit;
+  width: 92.83px;
+}
+.linkendin19 {
+  position: absolute;
+  top: calc(50% + 34.93px);
+  display: inline-block;
+  height: 20.94px;
+}
+.behance19 {
+  top: calc(50% + 61.93px);
+  height: 19.54px;
+}
+.behance19,
+.contact19,
+.email5,
+.instagram19 {
+  position: absolute;
+  display: inline-block;
+}
+.instagram19 {
+  text-decoration: none;
+  top: calc(50% + 87.93px);
+  left: calc(50% - 144.7px);
+  font-weight: 300;
+  color: inherit;
+  width: 92.83px;
+  height: 18.15px;
+}
+.contact19,
+.email5 {
+  left: calc(50% - 25.7px);
+  height: 14.49px;
+}
+.contact19 {
+  top: calc(50% + 50.93px);
+  font-size: 11.87px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gray-300);
+  width: 64.24px;
+}
+.email5 {
+  top: calc(50% + 73.12px);
+  font-weight: 300;
+  width: 34.01px;
+}
+.email5,
+.neeladri05dhargmailcom19,
+.whatsapp5 {
+  text-decoration: none;
+  font-size: 11.87px;
+  color: inherit;
+}
+.neeladri05dhargmailcom19 {
+  position: absolute;
+  top: calc(50% + 73.34px);
+  left: calc(50% + 8.62px);
+  display: inline-block;
+  font-style: italic;
+  font-weight: 300;
+  width: 141.08px;
+  height: 13.86px;
+}
+.whatsapp5 {
+  top: calc(50% + 92.95px);
+  left: calc(50% - 25.7px);
+  width: 51.65px;
+  height: 12.6px;
+}
+.a19,
+.kolkata-west-bengal19,
+.whatsapp5 {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.a19 {
+  text-decoration: none;
+  top: calc(50% + 94.35px);
+  left: calc(50% + 26.13px);
+  font-size: 11.72px;
+  font-style: italic;
+  color: var(--color-gray-300);
+  width: 100.14px;
+  height: 11.34px;
+}
+.kolkata-west-bengal19 {
+  top: calc(50% - 9.13px);
+  left: calc(50% - 59.05px);
+  width: 177.74px;
+  height: 18.25px;
+}
+.material-symbolslocation-on-r-icon20 {
+  position: absolute;
+  top: calc(50% - 7.73px);
+  left: calc(50% - 118.69px);
+  width: 11.27px;
+  height: 14.74px;
+  overflow: hidden;
+}
+.kolkata-west-bengal-india-parent10 {
+  position: absolute;
+  top: calc(50% - 52.12px);
+  left: calc(50% - 127.7px);
+  width: 237.39px;
+  height: 18.25px;
+  font-size: 14.86px;
+  color: var(--color-gray-300);
+}
+.let-us-connect-parent17 {
+  position: absolute;
+  top: calc(50% + 2189.5px);
+  left: calc(50% - 150px);
+  width: 299.41px;
+  height: 212.15px;
+  display: none;
+  font-size: 16.95px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-futura-lt-bt);
+}
+.photography-inner {
+  position: absolute;
+  width: calc(100% - 258px);
+  top: 324px;
+  right: -278px;
+  left: 536px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  height: 2px;
+  mix-blend-mode: normal;
+}
+.group-119-1 {
+  position: absolute;
+  top: 765px;
+  left: calc(50% - 222px);
+  width: 444px;
+  height: 3549px;
+  object-fit: cover;
+  display: none;
+}
+.photography2 {
+  position: relative;
+  background-color: var(--color-lightgray);
+  width: 100%;
+  height: 4883px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 63.47px;
+  color: var(--color-white);
+  font-family: var(--font-futura-hv-bt);
+}
+@media screen and (max-width: 1200px) {
+  .photgraphy {
+    display: flex;
+  }
+  .photography3,
+  .photography4 {
+    display: none;
+  }
+  .group-68-1 {
+    display: flex;
+  }
+  .let-us-connect-parent15 {
+    display: none;
+  }
+  .let-us-connect-parent16 {
+    display: flex;
+  }
+  .let-us-connect-parent17 {
+    display: none;
+  }
+  .photography-inner {
+    display: flex;
+  }
+  .group-119-1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 960px) {
+  .photgraphy {
+    display: none;
+  }
+  .photography3 {
+    display: flex;
+  }
+  .group-68-1,
+  .photography4 {
+    display: none;
+  }
+  .let-us-connect-parent15 {
+    display: flex;
+  }
+  .let-us-connect-parent16,
+  .let-us-connect-parent17,
+  .photography-inner {
+    display: none;
+  }
+  .group-119-1 {
+    display: flex;
+  }
+}
+@media screen and (max-width: 420px) {
+  .photgraphy,
+  .photography3 {
+    display: none;
+  }
+  .photography4 {
+    display: flex;
+  }
+  .group-68-1,
+  .let-us-connect-parent15,
+  .let-us-connect-parent16 {
+    display: none;
+  }
+  .let-us-connect-parent17 {
+    display: flex;
+  }
+  .photography-inner {
+    display: none;
+  }
+  .group-119-1 {
+    display: flex;
+  }
+}

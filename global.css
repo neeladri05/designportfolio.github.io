@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-futura-lt-bt: "Futura Lt BT";
+  --font-futura-md-bt: "Futura Md BT";
+  --font-futura-hv-bt: "Futura Hv BT";
+  --font-futura-bk-bt: "Futura Bk BT";
+  --font-futura-xblk-bt: "Futura XBlk BT";
+
+  /* font sizes */
+  --font-size-mid: 17px;
+  --font-size-lg-3: 18.3px;
+  --font-size-lgi: 19px;
+  --font-size-lgi-3: 19.3px;
+  --font-size-19xl-3: 38.3px;
+  --font-size-5xl-1: 24.1px;
+  --font-size-4xl-8: 23.8px;
+  --font-size-2xl-1: 21.1px;
+  --font-size-27xl-9: 46.9px;
+  --font-size-mini-9: 14.9px;
+  --font-size-xs-7: 11.7px;
+  --font-size-xs-9: 11.9px;
+  --font-size-14xl: 33px;
+  --font-size-lg: 18px;
+  --font-size-18xl-5: 37.5px;
+  --font-size-base-6: 16.6px;
+  --font-size-10xl-6: 29.6px;
+  --font-size-mini-2: 14.2px;
+  --font-size-6xl-2: 25.2px;
+  --font-size-2xl-6: 21.6px;
+  --font-size-21xl-5: 40.5px;
+  --font-size-14xl-1: 33.1px;
+  --font-size-43xl-1: 62.1px;
+  --font-size-21xl: 40px;
+  --font-size-35xl: 54px;
+  --font-size-29xl: 48px;
+  --font-size-44xl-8: 63.8px;
+  --font-size-5xl-6: 24.6px;
+  --font-size-19xl-1: 38.1px;
+  --font-size-44xl-5: 63.5px;
+  --font-size-23xl-4: 42.4px;
+  --font-size-50xl: 69px;
+
+  /* Colors */
+  --color-gray-100: #fafafa;
+  --color-gray-200: #131313;
+  --color-gray-300: #050505;
+  --color-gray-400: rgba(0, 0, 0, 0.41);
+  --color-darkslategray-100: #3e3e3e;
+  --color-white: #fff;
+  --color-lightgray: #cfcece;
+  --color-dimgray: rgba(81, 81, 81, 0.79);
+  --color-gainsboro-100: #d9d9d9;
+
+  /* border radiuses */
+  --br-lg-2: 18.2px;
+  --br-mid-3: 17.3px;
+  --br-base-6: 15.6px;
+  --br-mini-4: 14.4px;
+  --br-mini: 15px;
+  --br-16xl-2: 35.2px;
+}

@@ -1,0 +1,1985 @@
+.download-premium-png-of-black {
+  position: absolute;
+  top: calc(50% - 1865px);
+  left: 0;
+  width: 1725px;
+  height: 935px;
+  object-fit: cover;
+}
+.neeladri-dhar,
+.neeladri-dhar1 {
+  position: absolute;
+  font-weight: 800;
+}
+.neeladri-dhar {
+  top: calc(50% - 1672px);
+  left: 120px;
+  font-size: 109.31px;
+  text-align: left;
+  display: inline-block;
+  width: 696.54px;
+}
+.neeladri-dhar1 {
+  top: calc(50% - 1660px);
+  left: calc(50% - 184.5px);
+  font-size: 75px;
+  display: none;
+  width: 369px;
+}
+.designer {
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+}
+.im-a-designer-container {
+  position: absolute;
+  top: calc(50% - 1366px);
+  left: calc(50% - 54.5px);
+  font-size: 43.18px;
+  text-align: left;
+  display: inline-block;
+  width: 483px;
+  height: 103px;
+  font-family: var(--font-futura-bk-bt);
+}
+.im-a-designer {
+  position: absolute;
+  top: calc(50% - 1357px);
+  left: calc(50% - 163.5px);
+  font-size: 36px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  display: none;
+  width: 327px;
+  height: 135px;
+}
+.self-learned-designer,
+.years-of-experience {
+  position: absolute;
+  top: calc(50% - 38.72px);
+  right: 6.14px;
+  display: inline-block;
+  width: 229.32px;
+  height: 30.93px;
+}
+.years-of-experience {
+  top: calc(50% + 7.54px);
+  right: 0;
+  width: 254.46px;
+  height: 31.18px;
+}
+.self-learned-designer-parent {
+  position: absolute;
+  top: calc(50% - 1153px);
+  right: 113.54px;
+  width: 254.46px;
+  height: 77.45px;
+  text-align: left;
+  font-size: 24.62px;
+  font-family: var(--font-futura-bk-bt);
+}
+.group-child {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #1a1a1a;
+  width: 1728px;
+  height: 1975px;
+}
+.f7b46-4d3e-4ab1-9592-e85182e68-icon {
+  position: absolute;
+  bottom: 21.9px;
+  left: 5.95px;
+  width: 1713.97px;
+  height: 1953.1px;
+  object-fit: cover;
+}
+.main-child,
+.rectangle-parent {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.rectangle-parent {
+  bottom: 0;
+  height: 1975px;
+}
+.main-child {
+  top: calc(50% - 930px);
+  background-color: var(--color-gray-200);
+  height: 820px;
+}
+.work {
+  position: absolute;
+  top: calc(50% - 885px);
+  left: 120px;
+  font-weight: 800;
+  text-align: left;
+  display: inline-block;
+  width: 214.39px;
+}
+.work1,
+.work2 {
+  top: 980px;
+  display: none;
+}
+.work1 {
+  position: absolute;
+  left: calc(50% - 91.5px);
+  font-weight: 800;
+  width: 184px;
+}
+.work2 {
+  left: calc(50% - 70.5px);
+  font-size: var(--font-size-29xl);
+  width: 142px;
+}
+.about-me,
+.about-me1,
+.about-me2,
+.work2 {
+  position: absolute;
+  font-weight: 800;
+}
+.about-me {
+  top: calc(50% - 63px);
+  left: 120px;
+  text-align: left;
+  display: inline-block;
+  width: 373.15px;
+  height: 77.45px;
+}
+.about-me1,
+.about-me2 {
+  top: 1802px;
+  left: calc(50% - 170.5px);
+  display: none;
+  width: 342px;
+  height: 77px;
+}
+.about-me2 {
+  left: calc(50% - 124.5px);
+  font-size: var(--font-size-29xl);
+  width: 250px;
+}
+.skills {
+  top: calc(50% + 838.68px);
+  left: calc(50% - 62.5px);
+  font-size: var(--font-size-35xl);
+  text-align: left;
+  display: inline-block;
+  width: 125.72px;
+  height: 68.39px;
+}
+.experience,
+.experience1,
+.skills,
+.skills1 {
+  position: absolute;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+}
+.skills1 {
+  top: calc(50% + 577px);
+  left: calc(50% - 62.5px);
+  font-size: var(--font-size-21xl);
+  display: none;
+  width: 125.72px;
+  height: 68.39px;
+}
+.experience,
+.experience1 {
+  left: calc(50% - 139.5px);
+  width: 280px;
+  height: 53px;
+}
+.experience {
+  top: calc(50% + 1341px);
+  font-size: var(--font-size-35xl);
+  text-align: left;
+  display: inline-block;
+}
+.experience1 {
+  top: 2868px;
+  font-size: var(--font-size-21xl);
+  display: none;
+}
+.div,
+.motion-design {
+  position: absolute;
+  top: 8.65px;
+  left: 0;
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.motion-design {
+  top: 0;
+  left: 45.05px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 130.55px;
+  height: 80.73px;
+}
+.parent {
+  position: relative;
+  width: 175.6px;
+  height: 80.74px;
+}
+.uiui-design {
+  position: absolute;
+  top: 0;
+  left: 53.32px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 131.47px;
+  height: 80.73px;
+}
+.group {
+  position: relative;
+  width: 184.79px;
+  height: 80.74px;
+}
+.graphic-design {
+  position: absolute;
+  top: 0;
+  left: 50.56px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 130.55px;
+  height: 80.73px;
+}
+.container {
+  position: relative;
+  width: 181.11px;
+  height: 80.74px;
+}
+.adobe {
+  margin: 0;
+}
+.adobe-after-effects-container {
+  position: absolute;
+  top: 0;
+  left: 54.24px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 193.06px;
+  height: 80.73px;
+}
+.group-div {
+  position: relative;
+  width: 247.31px;
+  height: 80.74px;
+}
+.group-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.div4,
+.figma {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.figma {
+  top: 18.26px;
+  left: 44.13px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 134.23px;
+  height: 41.33px;
+}
+.parent1 {
+  position: relative;
+  width: 178.35px;
+  height: 72.08px;
+}
+.adobe-premiere-pro-container,
+.div5 {
+  position: absolute;
+  top: 3.84px;
+  left: 0;
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.adobe-premiere-pro-container {
+  top: 0;
+  left: 53.32px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 174.68px;
+  height: 80.73px;
+}
+.parent2 {
+  position: relative;
+  width: 228px;
+  height: 80.73px;
+}
+.adobe-illustrator,
+.div6 {
+  position: absolute;
+  top: 6.73px;
+  left: 0;
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.adobe-illustrator {
+  top: 0;
+  left: 51.48px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 130.55px;
+  height: 80.73px;
+}
+.parent3 {
+  position: relative;
+  width: 182.03px;
+  height: 80.73px;
+}
+.adobe-photoshop {
+  position: absolute;
+  top: 0;
+  left: 53.32px;
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 148.02px;
+  height: 80.73px;
+}
+.parent4 {
+  position: relative;
+  width: 201.34px;
+  height: 80.73px;
+}
+.frame-parent,
+.group-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frame-parent {
+  position: absolute;
+  top: calc(50% + 951px);
+  left: calc(50% - 465.5px);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 59px;
+  font-size: 62.06px;
+  color: var(--color-dimgray);
+  font-family: var(--font-futura-xblk-bt);
+}
+.div8,
+.figma1 {
+  position: absolute;
+  top: calc(50% - 36.04px);
+  left: calc(50% - 113.18px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.figma1 {
+  top: calc(50% - 17.78px);
+  left: calc(50% - 21.05px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 134.23px;
+  height: 41.33px;
+}
+.parent5 {
+  position: absolute;
+  top: calc(50% + 24.63px);
+  left: calc(50% - 314.6px);
+  width: 226.35px;
+  height: 72.08px;
+}
+.adobe-premiere-pro-container1,
+.div9 {
+  position: absolute;
+  top: calc(50% - 36.52px);
+  left: calc(50% - 139.5px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.adobe-premiere-pro-container1 {
+  top: calc(50% - 40.37px);
+  left: calc(50% - 35.18px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 174.68px;
+  height: 80.73px;
+}
+.parent6 {
+  position: absolute;
+  top: calc(50% + 20.63px);
+  left: calc(50% + 18.29px);
+  width: 279px;
+  height: 80.73px;
+}
+.adobe-illustrator1,
+.div10 {
+  position: absolute;
+  top: calc(50% - 33.64px);
+  left: calc(50% - 110.02px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.adobe-illustrator1 {
+  top: calc(50% - 40.37px);
+  left: calc(50% - 20.53px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 130.55px;
+  height: 80.73px;
+}
+.div11,
+.parent7 {
+  position: absolute;
+  top: calc(50% + 118.63px);
+  left: calc(50% - 304.6px);
+  width: 220.03px;
+  height: 80.73px;
+}
+.div11 {
+  top: calc(50% - 33.64px);
+  left: calc(50% - 127.17px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.adobe-photoshop1,
+.parent8 {
+  position: absolute;
+  height: 80.73px;
+}
+.adobe-photoshop1 {
+  top: calc(50% - 40.37px);
+  left: calc(50% - 20.85px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 148.02px;
+}
+.parent8 {
+  top: calc(50% + 116.63px);
+  left: calc(50% + 28.29px);
+  width: 254.34px;
+}
+.div12,
+.motion-design1 {
+  position: absolute;
+  top: calc(50% - 31.72px);
+  left: calc(50% - 106.3px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.motion-design1 {
+  top: calc(50% - 40.37px);
+  left: calc(50% - 24.25px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 130.55px;
+  height: 80.73px;
+}
+.parent9 {
+  position: absolute;
+  top: calc(50% - 199.37px);
+  left: calc(50% - 302.6px);
+  width: 212.6px;
+  height: 80.74px;
+}
+.div13,
+.uiui-design1 {
+  position: absolute;
+  top: calc(50% - 31.72px);
+  left: calc(50% - 110.9px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.uiui-design1 {
+  top: calc(50% - 40.37px);
+  left: calc(50% - 20.57px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 131.47px;
+  height: 80.73px;
+}
+.parent10 {
+  position: absolute;
+  top: calc(50% - 199.37px);
+  left: calc(50% + 59.29px);
+  width: 221.79px;
+  height: 80.74px;
+}
+.div14,
+.graphic-design1 {
+  position: absolute;
+  top: calc(50% - 31.72px);
+  left: calc(50% - 109.56px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.graphic-design1 {
+  top: calc(50% - 40.37px);
+  left: calc(50% - 20.99px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 130.55px;
+  height: 80.73px;
+}
+.parent11 {
+  position: absolute;
+  top: calc(50% - 87.37px);
+  left: calc(50% - 304.6px);
+  width: 219.11px;
+  height: 80.74px;
+}
+.adobe-after-effects-container1,
+.div15 {
+  position: absolute;
+  top: calc(50% - 31.72px);
+  left: calc(50% - 148.15px);
+  display: inline-block;
+  width: 41.37px;
+  height: 72.08px;
+}
+.adobe-after-effects-container1 {
+  top: calc(50% - 40.37px);
+  left: calc(50% - 44.91px);
+  font-size: var(--font-size-14xl-1);
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 193.06px;
+  height: 80.73px;
+}
+.group-parent1,
+.parent12 {
+  position: absolute;
+  top: calc(50% - 87.37px);
+  left: calc(50% + 18.29px);
+  width: 296.31px;
+  height: 80.74px;
+}
+.group-parent1 {
+  top: calc(50% + 925px);
+  left: calc(50% - 356.63px);
+  width: 629.19px;
+  height: 398.73px;
+  display: none;
+  font-size: 62.06px;
+  color: var(--color-dimgray);
+  font-family: var(--font-futura-xblk-bt);
+}
+.div16,
+.figma2 {
+  position: absolute;
+  top: calc(50% - 23.5px);
+  left: calc(50% - 65.95px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.figma2 {
+  top: calc(50% - 11.59px);
+  left: calc(50% - 21.57px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 87.52px;
+  height: 26.95px;
+}
+.parent13 {
+  position: absolute;
+  top: calc(50% + 16.06px);
+  left: calc(50% - 184.9px);
+  width: 131.91px;
+  height: 47px;
+}
+.adobe-premiere-pro-container2,
+.div17 {
+  position: absolute;
+  top: calc(50% - 23.82px);
+  left: calc(50% - 94.9px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.adobe-premiere-pro-container2 {
+  top: calc(50% - 26.32px);
+  left: calc(50% - 19px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 113.9px;
+  height: 52.64px;
+}
+.parent14 {
+  position: absolute;
+  top: calc(50% + 13.45px);
+  left: calc(50% - 16.9px);
+  width: 189.8px;
+  height: 52.64px;
+}
+.adobe-illustrator2,
+.div18 {
+  position: absolute;
+  top: calc(50% - 21.93px);
+  left: calc(50% - 64.65px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.adobe-illustrator2 {
+  top: calc(50% - 26.32px);
+  left: calc(50% - 20.47px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 85.13px;
+  height: 52.64px;
+}
+.div19,
+.parent15 {
+  position: absolute;
+  top: calc(50% + 77.36px);
+  left: calc(50% - 184.69px);
+  width: 129.31px;
+  height: 52.64px;
+}
+.div19 {
+  top: calc(50% - 21.93px);
+  left: calc(50% - 90.62px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.adobe-photoshop2,
+.parent16 {
+  position: absolute;
+  height: 52.64px;
+}
+.adobe-photoshop2 {
+  top: calc(50% - 26.32px);
+  left: calc(50% - 5.89px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 96.52px;
+}
+.parent16 {
+  top: calc(50% + 76.05px);
+  left: calc(50% - 16.72px);
+  width: 181.24px;
+}
+.div20,
+.motion-design2 {
+  position: absolute;
+  top: calc(50% - 20.68px);
+  left: calc(50% - 64.06px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.motion-design2 {
+  top: calc(50% - 26.32px);
+  left: calc(50% - 21.07px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 85.13px;
+  height: 52.64px;
+}
+.div21,
+.parent17 {
+  position: absolute;
+  top: calc(50% - 130px);
+  left: calc(50% - 183.5px);
+  width: 128.11px;
+  height: 52.64px;
+}
+.div21 {
+  top: calc(50% - 20.68px);
+  left: calc(50% - 75.62px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.div22,
+.parent18,
+.uiui-design2 {
+  position: absolute;
+  height: 52.64px;
+}
+.uiui-design2 {
+  top: calc(50% - 26.32px);
+  left: calc(50% - 10.11px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 85.73px;
+}
+.div22,
+.parent18 {
+  top: calc(50% - 130px);
+  left: calc(50% - 16.5px);
+  width: 151.23px;
+}
+.div22 {
+  top: calc(50% - 20.68px);
+  left: calc(50% - 64.35px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.graphic-design2,
+.parent19 {
+  position: absolute;
+  height: 52.64px;
+}
+.graphic-design2 {
+  top: calc(50% - 26.32px);
+  left: calc(50% - 20.77px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 85.13px;
+}
+.parent19 {
+  top: calc(50% - 56.97px);
+  left: calc(50% - 184.09px);
+  width: 128.71px;
+}
+.adobe-after-effects-container2,
+.div23 {
+  position: absolute;
+  top: calc(50% - 20.68px);
+  left: calc(50% - 100.7px);
+  display: inline-block;
+  width: 26.98px;
+  height: 47px;
+}
+.adobe-after-effects-container2 {
+  top: calc(50% - 26.32px);
+  left: calc(50% - 25.19px);
+  font-size: 21.58px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  color: var(--color-white);
+  text-align: left;
+  width: 125.89px;
+  height: 52.64px;
+}
+.group-parent2,
+.parent20 {
+  position: absolute;
+  top: calc(50% - 56.97px);
+  left: calc(50% - 16.5px);
+  width: 201.39px;
+  height: 52.64px;
+}
+.group-parent2 {
+  top: calc(50% + 655px);
+  left: calc(50% - 216.5px);
+  width: 369.79px;
+  height: 260px;
+  display: none;
+  font-size: 40.46px;
+  color: var(--color-dimgray);
+  font-family: var(--font-futura-xblk-bt);
+}
+.climajo {
+  left: 80.46px;
+  width: 93.75px;
+  height: 28.53px;
+}
+.cca-nit-durgapur,
+.climajo,
+.freelance,
+.strokes-nit-durgapur {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.freelance {
+  left: 174.08px;
+  text-align: right;
+  width: 203.13px;
+  height: 28.75px;
+}
+.cca-nit-durgapur,
+.strokes-nit-durgapur {
+  left: 457.65px;
+  width: 221.8px;
+  height: 28.58px;
+}
+.strokes-nit-durgapur {
+  left: 759.89px;
+  width: 256.94px;
+}
+.design-intern {
+  top: 35.92px;
+  left: 89.05px;
+  width: 85px;
+  height: 16.21px;
+}
+.design-intern,
+.motion-graphics,
+.president-photographer-video,
+.visual-and-motion {
+  position: absolute;
+  font-size: 14.17px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  display: inline-block;
+}
+.motion-graphics {
+  top: 35.17px;
+  left: 232.54px;
+  text-align: right;
+  width: 144.83px;
+  height: 15.69px;
+}
+.president-photographer-video,
+.visual-and-motion {
+  top: 35.92px;
+  left: 527.16px;
+  width: 152.29px;
+  height: 16.33px;
+}
+.president-photographer-video {
+  top: 36.38px;
+  left: 782.9px;
+  width: 246.22px;
+  height: 15.69px;
+}
+.climajo-parent {
+  position: absolute;
+  top: 25.44px;
+  left: -0.6px;
+  width: 1029.32px;
+  height: 52.25px;
+}
+.main-inner,
+.main-item {
+  position: absolute;
+  top: 3305px;
+  left: calc(50% - 540.5px);
+  border-radius: 15.62px;
+  background-color: var(--color-gray-400);
+  width: 1082px;
+  height: 100px;
+}
+.main-inner {
+  text-align: left;
+  font-size: 25.19px;
+  color: var(--color-white);
+  font-family: var(--font-futura-md-bt);
+}
+.main-item {
+  display: none;
+}
+.climajo1,
+.design-intern1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 110.02px;
+  height: 33.48px;
+}
+.design-intern1 {
+  top: 42.16px;
+  left: 10.08px;
+  font-size: 16.63px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  width: 99.76px;
+  height: 19.02px;
+}
+.climajo-group {
+  position: relative;
+  width: 110.02px;
+  height: 61.18px;
+}
+.freelance1,
+.motion-graphics1 {
+  position: absolute;
+  top: 0;
+  left: 0.42px;
+  font-weight: 500;
+  display: inline-block;
+  width: 138.68px;
+  height: 33.74px;
+}
+.motion-graphics1 {
+  top: 40.92px;
+  left: 0;
+  font-size: 16.63px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  width: 130.27px;
+  height: 18.78px;
+}
+.freelance-parent {
+  position: relative;
+  width: 139.1px;
+  height: 59.7px;
+  text-align: center;
+}
+.cca-nit-durgapur1,
+.visual-and-motion1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 260.3px;
+  height: 33.54px;
+}
+.visual-and-motion1 {
+  top: 42.15px;
+  left: 46.1px;
+  font-size: 16.63px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  text-align: center;
+  width: 178.72px;
+  height: 19.16px;
+}
+.cca-nit-durgapur-parent {
+  position: relative;
+  width: 260.3px;
+  height: 61.32px;
+}
+.president-photographer-video1,
+.strokes-nit-durgapur1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 301.54px;
+  height: 33.54px;
+}
+.president-photographer-video1 {
+  top: 42.75px;
+  left: 19.78px;
+  font-size: 16.63px;
+  font-weight: 300;
+  font-family: var(--font-futura-lt-bt);
+  text-align: center;
+  width: 267.58px;
+  height: 17.6px;
+}
+.strokes-nit-durgapur-parent {
+  position: relative;
+  width: 301.54px;
+  height: 60.35px;
+}
+.frame-div {
+  position: absolute;
+  top: calc(50% + 1095.16px);
+  left: calc(50% - 167.5px);
+  background-color: rgba(0, 0, 0, 0.43);
+  width: 336px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 7.04px;
+  text-align: left;
+  font-size: 29.56px;
+  font-family: var(--font-futura-md-bt);
+}
+.line-icon,
+.main-child1 {
+  position: absolute;
+  top: calc(50% - 825px);
+  left: 476px;
+  width: 1137px;
+  height: 2px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.main-child1 {
+  top: calc(50% - 3px);
+  left: 727px;
+  width: 974px;
+}
+.pxl-20221212-231444654-1-icon {
+  position: relative;
+  width: 349px;
+  height: 364px;
+  object-fit: cover;
+}
+.im-a-21-year-old {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  height: 364px;
+}
+.pxl-20221212-231444654-1-parent {
+  position: absolute;
+  width: calc(100% - 209px);
+  top: 1943px;
+  right: 94px;
+  left: 115px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 317px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  text-align: left;
+  font-size: 32px;
+  font-family: var(--font-futura-lt-bt);
+}
+.group-item {
+  top: calc(50% - 146px);
+  background-color: var(--color-lightgray);
+  width: 1728px;
+}
+.group-item,
+.rectangle-group,
+.resources-1 {
+  position: absolute;
+  left: 0;
+  height: 292px;
+}
+.resources-1 {
+  top: calc(50% - 146px);
+  width: 1725px;
+  object-fit: cover;
+}
+.rectangle-group {
+  top: calc(50% + 1573px);
+  width: 1728px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 17.26px;
+  background-color: var(--color-gray-200);
+  border: 2.3px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 310.61px;
+  height: 95.48px;
+}
+.visual-graphics {
+  position: absolute;
+  top: 24.16px;
+  left: 8.05px;
+  font-size: 37.52px;
+  font-family: var(--font-futura-bk-bt);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 293.99px;
+  height: 47.13px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 310.61px;
+  height: 95.48px;
+}
+.frame-button {
+  bottom: 2243.72px;
+  left: 371px;
+}
+.frame-button:hover,
+.main-inner1:hover,
+.main-inner2:hover,
+.main-inner3:hover,
+.main-inner4:hover,
+.main-inner5:hover,
+.main-inner6:hover,
+.main-inner7:hover {
+  box-shadow: 0 0 10px 5px rgba(131, 131, 131, 0.5);
+}
+.frame-button,
+.main-inner1,
+.main-inner2,
+.main-inner3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  border-radius: 18.16px;
+  width: 311px;
+  height: 94.28px;
+}
+.main-inner1 {
+  bottom: 2243.72px;
+  left: calc(50% - 153.5px);
+  display: none;
+}
+.main-inner2,
+.main-inner3 {
+  bottom: 2120.72px;
+}
+.main-inner2 {
+  right: 371px;
+}
+.main-inner3 {
+  left: calc(50% - 154.5px);
+  display: none;
+}
+.main-inner4 {
+  top: 1152px;
+  left: 371px;
+  width: 310.61px;
+  height: 95.48px;
+}
+.main-inner4,
+.main-inner5,
+.main-inner6,
+.main-inner7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  border-radius: 18.16px;
+}
+.main-inner5 {
+  top: 1152px;
+  left: calc(50% - 153.5px);
+  width: 310.61px;
+  height: 95.48px;
+  display: none;
+}
+.main-inner6,
+.main-inner7 {
+  top: 1274px;
+  width: 311px;
+  height: 95.11px;
+}
+.main-inner6 {
+  right: 369px;
+}
+.main-inner7 {
+  left: calc(50% - 153.5px);
+  display: none;
+}
+.pxl-20221212-231444654-1-icon1 {
+  position: relative;
+  width: 231.81px;
+  height: 241.77px;
+  object-fit: cover;
+}
+.im-a-21-year-old1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+}
+.pxl-20221212-231444654-1-group {
+  position: absolute;
+  top: calc(50% + 78px);
+  left: calc(50% + 501.5px);
+  width: 232.47px;
+  height: 540px;
+  display: none;
+  flex-direction: column;
+  padding: 0 0 210.5535125732422px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 13.28px;
+  font-size: 21.25px;
+  font-family: var(--font-futura-lt-bt);
+}
+.self-learned-designer1,
+.years-of-experience1 {
+  position: absolute;
+  top: calc(50% - 1047px);
+  right: 114.88px;
+  font-size: var(--font-size-lg);
+  display: none;
+  font-family: var(--font-futura-bk-bt);
+  width: 167.62px;
+  height: 22.61px;
+}
+.years-of-experience1 {
+  top: calc(50% - 1008.31px);
+  right: 106px;
+  width: 186px;
+  height: 22.79px;
+}
+.pxl-20221212-231444654-1-icon2 {
+  position: relative;
+  width: 146.22px;
+  height: 152.9px;
+  object-fit: cover;
+}
+.im-a-21-year-old2 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  width: 238px;
+  height: 177px;
+  flex-shrink: 0;
+}
+.pxl-20221212-231444654-1-container {
+  position: absolute;
+  top: calc(50% + 78px);
+  left: calc(50% - 413.5px);
+  width: 828px;
+  display: none;
+  flex-direction: column;
+  padding: 0 0 264.8597412109375px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 16.71px;
+  text-align: left;
+  font-size: 15.64px;
+  font-family: var(--font-futura-lt-bt);
+}
+.let-us-connect,
+.visit-me-on {
+  position: absolute;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.let-us-connect {
+  margin: 0;
+  top: calc(50% - 106.07px);
+  left: calc(50% - 124.7px);
+  font-size: 32.96px;
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  width: 248.48px;
+  height: 39.78px;
+}
+.visit-me-on {
+  top: calc(50% + 5.93px);
+  left: calc(50% - 184.7px);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  width: 144.62px;
+  height: 21.06px;
+}
+.behance,
+.linkendin {
+  text-decoration: none;
+  left: calc(50% - 201.7px);
+  font-weight: 300;
+  color: inherit;
+  width: 92.83px;
+}
+.linkendin {
+  position: absolute;
+  top: calc(50% + 34.93px);
+  display: inline-block;
+  height: 20.94px;
+}
+.behance {
+  top: calc(50% + 61.93px);
+  height: 19.54px;
+}
+.behance,
+.contact,
+.email,
+.instagram {
+  position: absolute;
+  display: inline-block;
+}
+.instagram {
+  text-decoration: none;
+  top: calc(50% + 87.93px);
+  left: calc(50% - 201.7px);
+  font-weight: 300;
+  color: inherit;
+  width: 92.83px;
+  height: 18.15px;
+}
+.contact,
+.email {
+  left: calc(50% - 16.7px);
+  height: 14.49px;
+}
+.contact {
+  top: calc(50% + 50.93px);
+  font-size: 11.87px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gray-300);
+  width: 64.24px;
+}
+.email {
+  top: calc(50% + 73.12px);
+  font-weight: 300;
+  width: 34.01px;
+}
+.email,
+.neeladri05dhargmailcom,
+.whatsapp {
+  text-decoration: none;
+  font-size: 11.87px;
+  color: inherit;
+}
+.neeladri05dhargmailcom {
+  position: absolute;
+  top: calc(50% + 73.34px);
+  left: calc(50% + 60.62px);
+  display: inline-block;
+  font-style: italic;
+  font-weight: 300;
+  width: 141.08px;
+  height: 13.86px;
+}
+.whatsapp {
+  top: calc(50% + 92.95px);
+  left: calc(50% - 16.7px);
+  width: 51.65px;
+  height: 12.6px;
+}
+.a,
+.kolkata-west-bengal,
+.whatsapp {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.a {
+  text-decoration: none;
+  top: calc(50% + 94.35px);
+  left: calc(50% + 78.13px);
+  font-size: 11.72px;
+  font-style: italic;
+  color: var(--color-gray-300);
+  width: 100.14px;
+  height: 11.34px;
+}
+.kolkata-west-bengal {
+  top: calc(50% - 9.13px);
+  left: calc(50% - 82.55px);
+  width: 177.74px;
+  height: 18.25px;
+}
+.material-symbolslocation-on-r-icon {
+  position: absolute;
+  top: calc(50% - 9.08px);
+  left: calc(50% - 95.19px);
+  width: 11.27px;
+  height: 14.74px;
+  overflow: hidden;
+}
+.kolkata-west-bengal-india-parent {
+  position: absolute;
+  top: calc(50% - 52.12px);
+  left: calc(50% - 50.7px);
+  width: 190.39px;
+  height: 18.25px;
+  font-size: 14.86px;
+  color: var(--color-gray-300);
+}
+.let-us-connect-parent {
+  position: absolute;
+  top: calc(50% + 1608px);
+  left: calc(50% - 201.5px);
+  width: 403.41px;
+  height: 212.15px;
+  display: none;
+  text-align: left;
+  font-size: 16.95px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-futura-lt-bt);
+}
+.let-us-connect1 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 46.88px;
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  display: inline-block;
+  width: 385.46px;
+}
+.kolkata-west-bengal1 {
+  position: absolute;
+  top: 125.83px;
+  left: 20.8px;
+  font-size: 21.14px;
+  font-weight: 300;
+  display: inline-block;
+  width: 267.68px;
+}
+.contact1,
+.visit-me-on1 {
+  position: absolute;
+  top: 56px;
+  left: 572px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  display: inline-block;
+  width: 205.71px;
+}
+.contact1 {
+  left: 856px;
+  font-size: 24.12px;
+  width: 122.83px;
+}
+.email-address,
+.linkendin1,
+.neeladri05dhargmailcom1 {
+  position: absolute;
+  display: inline-block;
+  font-weight: 300;
+}
+.linkendin1 {
+  text-decoration: none;
+  top: 93.95px;
+  left: 577.99px;
+  color: var(--color-darkslategray-100);
+  width: 131.82px;
+  height: 16.98px;
+}
+.email-address,
+.neeladri05dhargmailcom1 {
+  top: 94.95px;
+  font-size: var(--font-size-4xl-8);
+  height: 20.31px;
+}
+.email-address {
+  left: 856px;
+  color: var(--color-darkslategray-100);
+  width: 153.07px;
+}
+.neeladri05dhargmailcom1 {
+  text-decoration: none;
+  left: 1172.74px;
+  font-style: italic;
+  color: inherit;
+  width: 328.01px;
+}
+.a1,
+.instagram1 {
+  text-decoration: none;
+}
+.a1 {
+  position: absolute;
+  top: 135.56px;
+  left: 1172.74px;
+  font-size: var(--font-size-4xl-8);
+  display: inline-block;
+  font-style: italic;
+  font-weight: 300;
+  color: inherit;
+  width: 328.01px;
+  height: 20.31px;
+}
+.instagram1 {
+  top: 126.9px;
+  left: 577.99px;
+  width: 131.82px;
+  height: 16.98px;
+}
+.behance1,
+.instagram1,
+.whatsapp-number {
+  position: absolute;
+  font-weight: 300;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+}
+.whatsapp-number {
+  top: 135.56px;
+  left: 856px;
+  font-size: var(--font-size-4xl-8);
+  width: 185.87px;
+  height: 20.31px;
+}
+.behance1 {
+  text-decoration: none;
+  top: 159.86px;
+  left: 577.99px;
+  width: 131.82px;
+  height: 16.98px;
+}
+.material-symbolslocation-on-r-icon1 {
+  position: absolute;
+  top: 128.6px;
+  left: 0;
+  width: 16.64px;
+  height: 19.42px;
+  overflow: hidden;
+}
+.let-us-connect-group {
+  position: absolute;
+  top: 3481px;
+  left: 59px;
+  width: 1500.75px;
+  height: 176.83px;
+  text-align: left;
+  font-size: 24.11px;
+  color: var(--color-gray-300);
+  font-family: var(--font-futura-lt-bt);
+}
+.contact2,
+.let-us-connect2 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.let-us-connect2 {
+  margin: 0;
+  left: 1px;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  width: 315px;
+}
+.contact2 {
+  left: 0;
+  font-size: 19.29px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  width: 98.23px;
+}
+.email-address1 {
+  top: 31.15px;
+  left: 0;
+  color: var(--color-darkslategray-100);
+  width: 122.41px;
+}
+.a2,
+.email-address1,
+.neeladri05dhargmailcom2,
+.whatsapp-number1 {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+  height: 16.24px;
+}
+.neeladri05dhargmailcom2 {
+  text-decoration: none;
+  top: 31.15px;
+  left: 236.54px;
+  font-style: italic;
+  color: inherit;
+  width: 262.31px;
+}
+.a2,
+.whatsapp-number1 {
+  top: 63.62px;
+}
+.a2 {
+  text-decoration: none;
+  left: 236.54px;
+  font-style: italic;
+  color: inherit;
+  width: 262.31px;
+}
+.whatsapp-number1 {
+  left: 0;
+  color: var(--color-darkslategray-100);
+  width: 148.64px;
+}
+.contact-parent {
+  position: absolute;
+  top: 82px;
+  left: 573px;
+  width: 498.86px;
+  height: 79.86px;
+  font-size: 19.04px;
+}
+.visit-me-on2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 156.34px;
+}
+.behance2,
+.instagram2,
+.linkendin2 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 122px;
+  font-weight: 300;
+  color: inherit;
+  display: inline-block;
+  width: 100.18px;
+  height: 12.9px;
+}
+.behance2,
+.instagram2 {
+  left: 293px;
+}
+.behance2 {
+  left: 420px;
+}
+.group-wrapper,
+.visit-me-on-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 520.18px;
+  height: 22px;
+}
+.group-wrapper {
+  top: 144px;
+  font-size: 18.33px;
+  color: var(--color-darkslategray-100);
+}
+.kolkata-west-bengal2 {
+  position: absolute;
+  top: 0;
+  left: 16.73px;
+  font-weight: 300;
+  display: inline-block;
+  width: 215.27px;
+}
+.material-symbolslocation-on-r-icon2 {
+  position: absolute;
+  top: 2.23px;
+  left: 0;
+  width: 13.38px;
+  height: 15.62px;
+  overflow: hidden;
+}
+.kolkata-west-bengal-india-group {
+  position: absolute;
+  top: 76px;
+  left: 1px;
+  width: 232px;
+  height: 20px;
+  font-size: var(--font-size-mid);
+}
+.let-us-connect-container {
+  position: absolute;
+  top: 3481px;
+  left: 58px;
+  width: 1071.86px;
+  height: 166px;
+  display: none;
+  text-align: left;
+  font-size: 38.31px;
+  color: var(--color-gray-300);
+  font-family: var(--font-futura-lt-bt);
+}
+.main {
+  position: relative;
+  background-color: #8e8e8e;
+  width: 100%;
+  height: 3730px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 63.83px;
+  color: var(--color-white);
+  font-family: var(--font-futura-hv-bt);
+}
+@media screen and (max-width: 1200px) {
+  .about-me1,
+  .about-me2,
+  .experience1,
+  .group-parent1,
+  .group-parent2,
+  .im-a-designer,
+  .neeladri-dhar1,
+  .skills1,
+  .work1,
+  .work2 {
+    display: none;
+  }
+  .main-inner,
+  .main-item {
+    display: flex;
+  }
+  .frame-div {
+    display: none;
+  }
+  .frame-button,
+  .pxl-20221212-231444654-1-parent {
+    display: flex;
+  }
+  .main-inner1,
+  .main-inner3 {
+    display: none;
+  }
+  .main-inner4 {
+    display: flex;
+  }
+  .main-inner5 {
+    display: none;
+  }
+  .main-inner6 {
+    display: flex;
+  }
+  .let-us-connect-parent,
+  .main-inner7,
+  .pxl-20221212-231444654-1-container,
+  .pxl-20221212-231444654-1-group {
+    display: none;
+  }
+  .let-us-connect-group {
+    display: flex;
+  }
+  .let-us-connect-container {
+    display: none;
+  }
+}
+@media screen and (max-width: 960px) {
+  .im-a-designer,
+  .neeladri-dhar1,
+  .work {
+    display: none;
+  }
+  .work1 {
+    display: flex;
+  }
+  .about-me,
+  .work2 {
+    display: none;
+  }
+  .about-me1 {
+    display: flex;
+  }
+  .about-me2,
+  .experience1,
+  .frame-parent,
+  .skills1 {
+    display: none;
+  }
+  .group-parent1 {
+    display: flex;
+  }
+  .group-parent2 {
+    display: none;
+  }
+  .main-inner,
+  .main-item {
+    display: flex;
+  }
+  .frame-div,
+  .line-icon,
+  .main-child1 {
+    display: none;
+  }
+  .im-a-21-year-old {
+    flex: unset;
+    align-self: stretch;
+  }
+  .pxl-20221212-231444654-1-parent {
+    flex-direction: column;
+  }
+  .frame-button {
+    display: none;
+  }
+  .main-inner1 {
+    display: flex;
+  }
+  .main-inner2 {
+    display: none;
+  }
+  .main-inner3 {
+    display: flex;
+  }
+  .main-inner4 {
+    display: none;
+  }
+  .main-inner5 {
+    display: flex;
+  }
+  .main-inner6 {
+    display: none;
+  }
+  .main-inner7 {
+    display: flex;
+  }
+  .pxl-20221212-231444654-1-group {
+    flex-direction: column;
+  }
+  .pxl-20221212-231444654-1-container {
+    display: none;
+    flex-direction: column;
+  }
+  .let-us-connect-group,
+  .let-us-connect-parent {
+    display: none;
+  }
+  .let-us-connect-container {
+    display: flex;
+  }
+}
+@media screen and (max-width: 420px) {
+  .neeladri-dhar {
+    display: none;
+  }
+  .neeladri-dhar1 {
+    display: flex;
+  }
+  .im-a-designer-container {
+    display: none;
+  }
+  .im-a-designer {
+    display: flex;
+  }
+  .self-learned-designer-parent,
+  .work1 {
+    display: none;
+  }
+  .work2 {
+    display: flex;
+  }
+  .about-me1 {
+    display: none;
+  }
+  .about-me2 {
+    display: flex;
+  }
+  .skills {
+    display: none;
+  }
+  .skills1 {
+    display: flex;
+  }
+  .experience {
+    display: none;
+  }
+  .experience1 {
+    display: flex;
+  }
+  .group-parent1 {
+    display: none;
+  }
+  .group-parent2 {
+    display: flex;
+  }
+  .main-inner,
+  .main-item {
+    display: none;
+  }
+  .frame-div {
+    display: flex;
+  }
+  .frame-button,
+  .pxl-20221212-231444654-1-parent {
+    display: none;
+  }
+  .main-inner1 {
+    display: flex;
+  }
+  .main-inner2 {
+    display: none;
+  }
+  .main-inner3 {
+    display: flex;
+  }
+  .main-inner4 {
+    display: none;
+  }
+  .main-inner5 {
+    display: flex;
+  }
+  .main-inner6 {
+    display: none;
+  }
+  .let-us-connect-parent,
+  .main-inner7,
+  .pxl-20221212-231444654-1-container,
+  .pxl-20221212-231444654-1-group,
+  .self-learned-designer1,
+  .years-of-experience1 {
+    display: flex;
+  }
+  .let-us-connect-container,
+  .let-us-connect-group {
+    display: none;
+  }
+}
