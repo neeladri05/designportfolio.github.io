@@ -36,6 +36,7 @@
   height: 44px;
 }
 .climajo-item {
+  position: absolute;
   top: 597px;
   left: 0;
   background: linear-gradient(
@@ -46,38 +47,6 @@
   );
   width: 1728px;
   height: 3462px;
-}
-.climajo-item,
-.frame-child,
-.n {
-  position: absolute;
-}
-.frame-child {
-  top: 0;
-  left: 0;
-  border-radius: 50%;
-  background-color: var(--color-gainsboro-100);
-  width: 75px;
-  height: 75px;
-}
-.n {
-  top: 12.18px;
-  left: 13.14px;
-  font-size: 42.42px;
-  font-family: var(--font-futura-xblk-bt);
-  color: var(--color-gray-300);
-  text-align: left;
-}
-.ellipse-parent {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: transparent;
-  position: absolute;
-  top: 40px;
-  left: 1617px;
-  width: 75px;
-  height: 75px;
 }
 .detailed-case-study-1 {
   position: absolute;
