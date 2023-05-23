@@ -71,75 +71,220 @@
   width: 1725px;
   object-fit: cover;
 }
-.contact20,
-.let-us-connect20 {
+.material-symbolslocation-on-r-icon24 {
+  position: absolute;
+  top: 76px;
+  left: calc(50% - 188.06px);
+  width: 16.64px;
+  height: 19.42px;
+  overflow: hidden;
+}
+.kolkata-west-bengal23,
+.let-us-connect23 {
+  position: absolute;
+  top: 76px;
+  left: calc(50% - 171.42px);
+  font-weight: 300;
+  display: inline-block;
+  width: 267.68px;
+}
+.let-us-connect23 {
+  margin: 0;
+  top: 0;
+  left: calc(50% - 192.73px);
+  font-size: 46.88px;
+  font-weight: 800;
+  font-family: var(--font-futura-hv-bt);
+  width: 385.46px;
+}
+.material-symbolslocation-on-r-parent9 {
+  position: absolute;
+  top: 9.92px;
+  left: calc(50% - 565.5px);
+  width: 385.46px;
+  height: 101px;
+}
+.visit-me-on23 {
   position: absolute;
   top: 0;
+  left: calc(50% - 102.86px);
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 205.71px;
+}
+.behance23,
+.instagram23,
+.linkendin23 {
+  text-decoration: none;
+  position: absolute;
+  top: 37.95px;
+  left: calc(50% - 96.87px);
+  font-weight: 300;
+  color: inherit;
+  display: inline-block;
+  width: 131.82px;
+  height: 16.98px;
+}
+.behance23,
+.instagram23 {
+  top: 70.9px;
+}
+.behance23 {
+  top: 103.86px;
+}
+.visit-me-on-parent15 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 143.04px);
+  width: 205.71px;
+  height: 120.83px;
+  font-size: 24.11px;
+  color: var(--color-darkslategray-100);
+}
+.contact23,
+.email-address17 {
+  position: absolute;
+  left: calc(50% - 232.91px);
   display: inline-block;
 }
-.let-us-connect20 {
+.contact23 {
+  top: 0;
+  font-size: 24.12px;
+  font-weight: 500;
+  font-family: var(--font-futura-md-bt);
+  width: 122.83px;
+}
+.email-address17 {
+  top: 38.95px;
+  font-weight: 300;
+  color: var(--color-darkslategray-100);
+  width: 153.07px;
+  height: 20.31px;
+}
+.neeladri05dhargmailcom23 {
+  text-decoration: none;
+  top: 38.93px;
+  left: calc(50% - 47.09px);
+  font-style: italic;
+  color: inherit;
+  width: 280px;
+  height: 20px;
+}
+.a23,
+.neeladri05dhargmailcom23,
+.whatsapp-number17 {
+  position: absolute;
+  font-weight: 300;
+  display: inline-block;
+}
+.a23 {
+  text-decoration: none;
+  top: 79.93px;
+  left: calc(50% - 47.09px);
+  font-style: italic;
+  color: inherit;
+  width: 280px;
+  height: 20px;
+}
+.whatsapp-number17 {
+  top: 79.56px;
+  left: calc(50% - 232.91px);
+  color: var(--color-darkslategray-100);
+  width: 185.87px;
+  height: 20.31px;
+}
+.contact-parent15 {
+  position: absolute;
+  top: 10.49px;
+  left: calc(50% + 99.68px);
+  width: 465.82px;
+  height: 99.93px;
+  font-size: var(--font-size-4xl-8);
+}
+.group-parent15,
+.group-parent16 {
+  position: absolute;
+  top: 85.58px;
+  width: 1131px;
+  height: 120.83px;
+}
+.group-parent15 {
+  left: calc(50% - 768px);
+  display: none;
+}
+.group-parent16 {
+  left: calc(50% - 566px);
+}
+.contact25,
+.let-us-connect25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.let-us-connect25 {
   margin: 0;
-  left: 1px;
   font-size: inherit;
   font-weight: 800;
   font-family: var(--font-futura-hv-bt);
   width: 315px;
 }
-.contact20 {
-  left: 0;
+.contact25 {
   font-size: 19.29px;
   font-weight: 500;
   font-family: var(--font-futura-md-bt);
   width: 98.23px;
 }
-.email-address14 {
+.email-address19 {
   top: 31.15px;
   left: 0;
   color: var(--color-darkslategray-100);
   width: 122.41px;
 }
-.a20,
-.email-address14,
-.neeladri05dhargmailcom20,
-.whatsapp-number14 {
+.a25,
+.email-address19,
+.neeladri05dhargmailcom25,
+.whatsapp-number19 {
   position: absolute;
   font-weight: 300;
   display: inline-block;
   height: 16.24px;
 }
-.neeladri05dhargmailcom20 {
+.neeladri05dhargmailcom25 {
   text-decoration: none;
   top: 31.15px;
-  left: 148.54px;
+  left: 149px;
   font-style: italic;
   color: inherit;
   width: 262.31px;
 }
-.a20,
-.whatsapp-number14 {
+.a25,
+.whatsapp-number19 {
   top: 63.62px;
 }
-.a20 {
+.a25 {
   text-decoration: none;
-  left: 148.54px;
+  left: 149px;
   font-style: italic;
   color: inherit;
   width: 262.31px;
 }
-.whatsapp-number14 {
+.whatsapp-number19 {
   left: 0;
   color: var(--color-darkslategray-100);
   width: 148.64px;
 }
-.contact-parent5 {
+.contact-parent17 {
   position: absolute;
-  top: 82px;
-  left: 398px;
-  width: 410.86px;
+  top: 114px;
+  left: 305px;
+  width: 411.31px;
   height: 79.86px;
   font-size: 19.04px;
 }
-.visit-me-on20 {
+.visit-me-on25 {
   position: absolute;
   top: 0;
   left: 0;
@@ -149,9 +294,9 @@
   display: inline-block;
   width: 156.34px;
 }
-.behance20,
-.instagram20,
-.linkendin20 {
+.behance25,
+.instagram25,
+.linkendin25 {
   text-decoration: none;
   position: absolute;
   top: 0;
@@ -162,27 +307,27 @@
   width: 100.18px;
   height: 12.9px;
 }
-.behance20,
-.instagram20 {
-  left: 205px;
+.behance25,
+.instagram25 {
+  top: 22px;
 }
-.behance20 {
-  left: 289px;
+.behance25 {
+  top: 44px;
 }
-.group-wrapper6,
-.visit-me-on-parent5 {
+.group-wrapper5,
+.visit-me-on-parent17 {
   position: absolute;
   top: 0;
   left: 0;
-  width: 389.18px;
-  height: 22px;
+  width: 222.18px;
+  height: 56.9px;
 }
-.group-wrapper6 {
-  top: 144px;
+.group-wrapper5 {
+  top: 129px;
   font-size: 18.33px;
   color: var(--color-darkslategray-100);
 }
-.kolkata-west-bengal20 {
+.kolkata-west-bengal25 {
   position: absolute;
   top: 0;
   left: 16.73px;
@@ -190,7 +335,7 @@
   display: inline-block;
   width: 215.27px;
 }
-.material-symbolslocation-on-r-icon21 {
+.material-symbolslocation-on-r-icon26 {
   position: absolute;
   top: 2.23px;
   left: 0;
@@ -198,152 +343,22 @@
   height: 15.62px;
   overflow: hidden;
 }
-.kolkata-west-bengal-india-parent11 {
+.kolkata-west-bengal-india-parent10 {
   position: absolute;
   top: 76px;
-  left: 1px;
+  left: 0;
   width: 232px;
   height: 20px;
   font-size: var(--font-size-mid);
 }
-.let-us-connect-parent18 {
+.let-us-connect-parent10 {
   position: absolute;
-  top: 63px;
-  left: 58px;
-  width: 808.86px;
-  height: 166px;
-  display: none;
-}
-.let-us-connect21 {
-  margin: 0;
-  position: absolute;
-  top: 0;
-  left: 0;
-  font-size: 46.88px;
-  font-weight: 800;
-  font-family: var(--font-futura-hv-bt);
-  display: inline-block;
-  width: 385.46px;
-}
-.kolkata-west-bengal21 {
-  position: absolute;
-  top: 125.83px;
-  left: 20.8px;
-  font-size: 21.14px;
-  font-weight: 300;
-  display: inline-block;
-  width: 267.68px;
-}
-.visit-me-on21 {
-  top: 56px;
-  left: 397px;
-  font-weight: 500;
-  font-family: var(--font-futura-md-bt);
-  width: 205.71px;
-}
-.contact21,
-.linkendin21,
-.visit-me-on21 {
-  position: absolute;
-  display: inline-block;
-}
-.contact21 {
-  top: 56px;
-  left: 593px;
-  font-size: 24.12px;
-  font-weight: 500;
-  font-family: var(--font-futura-md-bt);
-  width: 122.83px;
-}
-.linkendin21 {
-  text-decoration: none;
-  top: 93.95px;
-  left: 402.99px;
-  font-weight: 300;
-  color: var(--color-darkslategray-100);
-  width: 131.82px;
-  height: 16.98px;
-}
-.email-address15,
-.neeladri05dhargmailcom21 {
-  position: absolute;
-  top: 94.95px;
-  font-size: var(--font-size-4xl-8);
-  display: inline-block;
-  font-weight: 300;
-  height: 20.31px;
-}
-.email-address15 {
-  left: 593px;
-  color: var(--color-darkslategray-100);
-  width: 153.07px;
-}
-.neeladri05dhargmailcom21 {
-  text-decoration: none;
-  left: 778.74px;
-  font-style: italic;
-  color: inherit;
-  width: 328.01px;
-}
-.a21,
-.instagram21 {
-  text-decoration: none;
-}
-.a21 {
-  position: absolute;
-  top: 135.56px;
-  left: 778.74px;
-  font-size: var(--font-size-4xl-8);
-  display: inline-block;
-  font-style: italic;
-  font-weight: 300;
-  color: inherit;
-  width: 328.01px;
-  height: 20.31px;
-}
-.instagram21 {
-  top: 126.9px;
-  left: 402.99px;
-  width: 131.82px;
-  height: 16.98px;
-}
-.behance21,
-.instagram21,
-.whatsapp-number15 {
-  position: absolute;
-  font-weight: 300;
-  color: var(--color-darkslategray-100);
-  display: inline-block;
-}
-.whatsapp-number15 {
-  top: 135.56px;
-  left: 593px;
-  font-size: var(--font-size-4xl-8);
-  width: 185.87px;
-  height: 20.31px;
-}
-.behance21 {
-  text-decoration: none;
-  top: 159.86px;
-  left: 402.99px;
-  width: 131.82px;
-  height: 16.98px;
-}
-.material-symbolslocation-on-r-icon22 {
-  position: absolute;
-  top: 128.6px;
-  left: 0;
-  width: 16.64px;
-  height: 19.42px;
-  overflow: hidden;
-}
-.let-us-connect-parent19 {
-  position: absolute;
-  top: 58px;
+  top: 49px;
   left: 59px;
-  width: 1106.75px;
-  height: 176.83px;
-  font-size: 24.11px;
+  width: 716.31px;
+  height: 193.86px;
+  display: none;
+  font-size: 38.31px;
 }
 .rectangle-parent14 {
   position: absolute;
@@ -351,16 +366,16 @@
   left: 0;
   width: 1728px;
   height: 292px;
-  font-size: 38.31px;
+  font-size: 21.14px;
   color: var(--color-gray-300);
 }
-.let-us-connect22,
-.visit-me-on22 {
+.let-us-connect26,
+.visit-me-on26 {
   position: absolute;
   color: var(--color-gray-300);
   display: inline-block;
 }
-.let-us-connect22 {
+.let-us-connect26 {
   margin: 0;
   top: calc(50% - 106.07px);
   left: calc(50% - 133.7px);
@@ -370,7 +385,7 @@
   width: 248.48px;
   height: 39.78px;
 }
-.visit-me-on22 {
+.visit-me-on26 {
   top: calc(50% + 5.93px);
   left: calc(50% - 149.7px);
   font-weight: 500;
@@ -378,32 +393,32 @@
   width: 144.62px;
   height: 21.06px;
 }
-.behance22,
-.linkendin22 {
+.behance26,
+.linkendin26 {
   text-decoration: none;
   left: calc(50% - 144.7px);
   font-weight: 300;
   color: inherit;
   width: 92.83px;
 }
-.linkendin22 {
+.linkendin26 {
   position: absolute;
   top: calc(50% + 34.93px);
   display: inline-block;
   height: 20.94px;
 }
-.behance22 {
+.behance26 {
   top: calc(50% + 61.93px);
   height: 19.54px;
 }
-.behance22,
-.contact22,
+.behance26,
+.contact26,
 .email6,
-.instagram22 {
+.instagram26 {
   position: absolute;
   display: inline-block;
 }
-.instagram22 {
+.instagram26 {
   text-decoration: none;
   top: calc(50% + 87.93px);
   left: calc(50% - 144.7px);
@@ -412,12 +427,12 @@
   width: 92.83px;
   height: 18.15px;
 }
-.contact22,
+.contact26,
 .email6 {
   left: calc(50% - 25.7px);
   height: 14.49px;
 }
-.contact22 {
+.contact26 {
   top: calc(50% + 50.93px);
   font-size: 11.87px;
   font-weight: 500;
@@ -431,13 +446,13 @@
   width: 34.01px;
 }
 .email6,
-.neeladri05dhargmailcom22,
+.neeladri05dhargmailcom26,
 .whatsapp6 {
   text-decoration: none;
   font-size: 11.87px;
   color: inherit;
 }
-.neeladri05dhargmailcom22 {
+.neeladri05dhargmailcom26 {
   position: absolute;
   top: calc(50% + 73.34px);
   left: calc(50% + 8.62px);
@@ -453,14 +468,14 @@
   width: 51.65px;
   height: 12.6px;
 }
-.a22,
-.kolkata-west-bengal22,
+.a26,
+.kolkata-west-bengal26,
 .whatsapp6 {
   position: absolute;
   font-weight: 300;
   display: inline-block;
 }
-.a22 {
+.a26 {
   text-decoration: none;
   top: calc(50% + 94.35px);
   left: calc(50% + 26.13px);
@@ -470,13 +485,13 @@
   width: 100.14px;
   height: 11.34px;
 }
-.kolkata-west-bengal22 {
+.kolkata-west-bengal26 {
   top: calc(50% - 9.13px);
   left: calc(50% - 59.05px);
   width: 177.74px;
   height: 18.25px;
 }
-.material-symbolslocation-on-r-icon23 {
+.material-symbolslocation-on-r-icon27 {
   position: absolute;
   top: calc(50% - 7.73px);
   left: calc(50% - 118.69px);
@@ -484,7 +499,7 @@
   height: 14.74px;
   overflow: hidden;
 }
-.kolkata-west-bengal-india-parent12 {
+.kolkata-west-bengal-india-parent11 {
   position: absolute;
   top: calc(50% - 52.12px);
   left: calc(50% - 127.7px);
@@ -493,7 +508,7 @@
   font-size: 14.86px;
   color: var(--color-gray-300);
 }
-.let-us-connect-parent20 {
+.let-us-connect-parent11 {
   position: absolute;
   top: calc(50% + 1923.5px);
   left: calc(50% - 149.5px);
@@ -515,26 +530,28 @@
   font-family: var(--font-futura-lt-bt);
 }
 @media screen and (max-width: 1200px) {
-  .detailed-case-study-1 {
+  .detailed-case-study-1,
+  .group-parent15 {
     display: flex;
   }
-  .let-us-connect-parent18 {
-    display: none;
-  }
-  .let-us-connect-parent19 {
-    display: flex;
-  }
-  .let-us-connect-parent20 {
+  .group-parent16,
+  .let-us-connect-parent10,
+  .let-us-connect-parent11 {
     display: none;
   }
 }
 @media screen and (max-width: 960px) {
-  .detailed-case-study-1,
-  .let-us-connect-parent18 {
+  .detailed-case-study-1 {
     display: flex;
   }
-  .let-us-connect-parent19,
-  .let-us-connect-parent20 {
+  .group-parent15,
+  .group-parent16 {
+    display: none;
+  }
+  .let-us-connect-parent10 {
+    display: flex;
+  }
+  .let-us-connect-parent11 {
     display: none;
   }
 }
@@ -542,11 +559,12 @@
   .detailed-case-study-1 {
     display: flex;
   }
-  .let-us-connect-parent18,
-  .let-us-connect-parent19 {
+  .group-parent15,
+  .group-parent16,
+  .let-us-connect-parent10 {
     display: none;
   }
-  .let-us-connect-parent20 {
+  .let-us-connect-parent11 {
     display: flex;
   }
 }
